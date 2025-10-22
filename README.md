@@ -102,8 +102,8 @@ Raporlar `reports/` klasöründe saklanmalı ve GitHub repo linki ödev teslim f
 
 ## Örnek README İmza
 
-Hazırlayan: <Mustafa Emir Kincal>
-Öğrenci No: <231118055>
+Hazırlayan: <Zeynep Tuncer>
+Öğrenci No: <231118002>
 Ders: <Yazilim Gerceklestirme Ve Test>
 Teslim Tarihi: 22.10.2025
 
